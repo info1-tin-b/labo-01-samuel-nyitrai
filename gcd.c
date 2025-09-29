@@ -4,8 +4,7 @@
  * The Euclidean algorithm (also called Euclid's algorithm) is an
  * algorithm to determine the greatest common divisor of two integers.
  */
-#include <stdlib.h>                            //insertion des librairies 
-#include <string.h>                            
+#include <stdlib.h>                            //insertion des librairies                            
 #include <stdio.h>    
 
 
